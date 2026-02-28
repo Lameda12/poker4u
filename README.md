@@ -132,7 +132,7 @@ Found a bug or have an idea? Open an [issue](https://github.com/Lameda12/poker4u
 **Play. Learn. Make better decisions.**  
 — [Poker4U](https://github.com/Lameda12/poker4u) ♠️♥️♣️♦️
 
-##LICENSE
+LICENSE
 
 MIT
 
